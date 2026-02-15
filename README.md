@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # soluware.nl
 
 Infrastructure and configuration artefacts related to the Soluware public website.
