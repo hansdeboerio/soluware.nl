@@ -6,7 +6,6 @@ Infrastructure and configuration artefacts related to the Soluware public websit
 This repository contains selected configuration notes, documentation fragments, 
 and migration tracking references used during the 2025–2026 platform transition.
 
-⚠️ This repository does NOT contain production secrets.  
 Operational access is managed separately.
 
 ---
@@ -14,9 +13,6 @@ Operational access is managed separately.
 ## Overview
 
 Soluware operates:
-
-- Public website: https://www.soluware.nl  
-- Client portal: https://app.soluware.nl  
 
 The public website serves marketing content, press releases, and customer communication.  
 Authentication and session handling are performed on the client portal host.
